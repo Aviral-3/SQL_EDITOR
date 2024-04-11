@@ -1,0 +1,17 @@
+{
+  "name": "sql_Editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codemirror": "^5.65.16",
+    "react-codemirror2": "^7.3.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
